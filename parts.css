@@ -1,0 +1,32 @@
+img {
+    display: block;
+    margin: auto;
+    border: 5px solid #000;
+}
+ul li {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    font: 45px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+    border: black solid 2px;
+    padding: 10px;
+    margin: 5px;
+}
+a:hover {
+    color: white;
+    border: white solid 2px;
+}
+body {
+    background-color: #798C7F;
+}
+h1 {
+    text-align: center;
+    margin: auto;
+    font: 50px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
+    padding-bottom: 50px;
+}

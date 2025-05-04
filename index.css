@@ -36,3 +36,14 @@ p {
     margin: auto;
     font: 30px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+.link {
+    text-decoration: none;
+    color: black;
+    border: none;
+    padding: 0;
+}
+.link:hover {
+    text-decoration: none;
+    color: white;
+    border: none;
+}
