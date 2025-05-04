@@ -1,3 +1,3 @@
-# final-project-ct
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           # final-project-ct
 Computer Technologies Final Project
 My final project is creating a presentation on how to build a PC step by step.
