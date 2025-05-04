@@ -1,0 +1,31 @@
+body {
+    background-color: #42497a
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: flex-start;
+
+
+}
+ul li {
+    display: inline-block;
+    padding: 35px;
+    text-align: center;
+    font-size: 45px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+
+}
+a {
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ffffff;
+}
