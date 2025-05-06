@@ -30,3 +30,28 @@ h1 {
     font: 50px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
     padding-bottom: 50px;
 }
+p {
+    font: 35px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: auto;
+    text-align: left;
+    padding: 20px;
+}
+h2 {
+    font: 45px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+}
+.link {
+        text-decoration: underline;
+        color: black;
+        border: none;
+        padding: 0;
+}
+.link:hover {
+    text-decoration: underline;
+    color: black;
+    border: none;
+    padding: 0;
+}
