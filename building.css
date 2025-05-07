@@ -8,7 +8,9 @@ ul li {
     display: inline-block;
     margin: auto;
     text-align: center;
-    padding: 100px;
+    position: relative;
+    padding-top: 50px;
+    padding-left: 50px;
     font: 45px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 a {
@@ -23,7 +25,7 @@ a:hover {
     border: white solid 2px;
 }
 body {
-    background-color: #867A91;
+    background-color: #EDE88C;
 }
 h1 {
     text-align: center;
@@ -35,4 +37,23 @@ p {
     text-align: justify;
     margin: auto;
     font: 30px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+h2 {
+
+    font: 45px "Lucida Sans Unicode", "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color: black;
+    border: black solid 2px;
+    padding: 10px;
+    margin: 5px;
+}
+a:hover {
+    color: white;
+    border: white solid 2px;
 }
