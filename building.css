@@ -57,3 +57,9 @@ a:hover {
     color: white;
     border: white solid 2px;
 }
+.header {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+
+}

@@ -50,3 +50,9 @@ p {
     border: none;
     padding: 0;
 }
+.header {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+
+}
